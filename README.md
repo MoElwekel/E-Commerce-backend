@@ -63,8 +63,13 @@ npm run start:dev
 For production:
 npm run start:prod
 
+
+---
+
 🤝 Author
 Developed by Mo Elwekel
+
+---
 
 📜 License
 This project is licensed under the ISC License.
