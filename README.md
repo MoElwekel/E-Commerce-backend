@@ -139,6 +139,13 @@ The API provides the following endpoints:
 *   `DELETE /api/v1/users/:id`: Delete a user (Admin only)
 *   `PUT /api/v1/users/changePassword/:id`: Change user password (Admin only)
 
+### Logged User
+
+*   `GET /api/v1/users/getme`: Get Logged User Data
+*   `PUT /api/v1/users/updateme`: Update Logged User Data
+*   `PUT /api/v1/users/changemypassword`: Update Logged User Password
+*   `DEL /api/v1/users/deleteme`: Delete Logged User Data
+
 ### Auth
 
 *   `POST /api/v1/auth/signup`: Register a new user
